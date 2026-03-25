@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DealHub | Best Tech Deals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="container nav-content">
+            <h1 class="logo">🔥 DealHub</h1>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#deals">Deals</a></li>
+                <li><a href="#">Categories</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="container">
+            <h2>Best Deals on Amazon & Flipkart 💥</h2>
+            <p>Handpicked discounts on the latest tech and lifestyle products.</p>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search for products...">
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="deals">
+            <div class="filter-bar">
+                <button class="filter-btn active" data-cat="all">All</button>
+                <button class="filter-btn" data-cat="Electronics">Electronics</button>
+                <button class="filter-btn" data-cat="Laptops">Laptops</button>
+            </div>
+            <div class="product-grid" id="productGrid">
+                </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2026 DealHub. All rights reserved. Prices subject to change.</p>
+    </footer>
+
+    <script src="products.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
