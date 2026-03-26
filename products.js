@@ -18,5 +18,15 @@ const products = [
     flipkartPrice: "371",
     link: "https://amzn.to/4t7llbJ",
     featured: true
-  }
+  },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._SL1000_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+  },
 ];
