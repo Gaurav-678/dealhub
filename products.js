@@ -29,4 +29,75 @@ const products = [
     link: "https://amzn.to/4t1pBto",
     featured: true
   },
-];
+    },
+    {
+    id: 4,
+    name: "Cetaphil Brightness Reveal Creamy Cleanser - 100 g| Brightening Face Wash for Uneven Skin Tone| Niacinamide, Sea Daffodil| Fragrance Free| Dermatologist Recommended",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/61d+gE5QbSL._SL1500_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/3NMwXBR",
+    featured: true
+  },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._S",
+    amazonPrice: "700",
+    flipkartPrice: "750",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+  },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._SL1000_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+  },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._SL1000_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+ },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._SL1000_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+ },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._SL1000_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+ },
+    {
+    id: 3,
+    name: "Cetaphil Cleansing Moisturizing Syndet Bar 100gm",
+    category: "Beauty",
+    image: "https://m.media-amazon.com/images/I/51PasKyvYuL._SL1000_.jpg",
+    amazonPrice: "170",
+    flipkartPrice: "180",
+    link: "https://amzn.to/4t1pBto",
+    featured: true
+  },
+  ];
